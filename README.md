@@ -1,12 +1,18 @@
 # Learning
 
-[TOC]
+- [Mybatis](#mybatis)
+
+  - [Mybatis入门-环境搭建](#Mybatis入门-环境搭建)
+
+   - [Mybatis配置文件](#Mybatis配置文件)
+
+     
 
 
 
 ## Mybatis
 
-​	Mybatis是一个ORM层框架,全称(Object/Relation Mapping)对象关系映射
+​	Mybatis是一个ORM的半自动轻量级持久层框架,全称(Object/Relation Mapping)对象关系映射,Mybatis简化了程序员手动操作jdbc以及封装结果集的繁杂工作.
 
 ### 	Mybatis入门-环境搭建
 
@@ -169,11 +175,7 @@ public interface IUserDao {
 
 ### 	Mybatis配置文件
 
-### 	Mybatis缓存
 
-### 	Mybatis底层架构
-
-### 	Mybatis源码剖析
 
 ## Spring
 
